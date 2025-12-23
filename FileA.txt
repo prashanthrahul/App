@@ -1,1 +1,2 @@
 This is FileA
+There is some changes to FileA
